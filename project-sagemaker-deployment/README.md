@@ -30,4 +30,6 @@ You'll be using the [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuh
 
 This dataset is more complex than the number datasets (like MNIST or SVHN) you've been working with, and so, you should prepare to define deeper networks and train them for a longer time to get good results. It is suggested that you utilize a GPU for training.
 
+![Sample Output][image]
+
 ![Sample Output2][image2]
