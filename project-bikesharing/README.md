@@ -23,7 +23,6 @@ The data comes from the UCI Machine Learning Database.
 ```conda create --name deep-learning python=3```
 5. Enter your new environment:
 Mac/Linux: ```>> source activate deep-learning```
-
 Windows: ```>> activate deep-learning```
 6. Ensure you have ```numpy```, ```matplotlib```, ```pandas```, and ```jupyter notebook``` installed by doing the following:
 ```conda install numpy matplotlib pandas jupyter notebook```
